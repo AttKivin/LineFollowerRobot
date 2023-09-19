@@ -4,7 +4,7 @@ Group project for course Principles of digital fabrication at the university of 
 ## Description
 A simple robot that is designed to follow a black line on the ground. It uses arduino and compatible components control the movement.
 
-![Line following robot](line_following_robot.jpg)
+![Line following robot](Pictures/IMG_3388.jpg)
 
 ## Materials
 The shell is made of 3D-printed plastic
